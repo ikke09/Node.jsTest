@@ -1,0 +1,24 @@
+{
+  "name": "nodetest",
+  "version": "0.0.1",
+  "description": "test for learning node.js and other packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikke09/Node.jsTest.git"
+  },
+  "keywords": [
+    "test",
+    "node.js",
+    "learning"
+  ],
+  "author": "Christian Bechtluft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikke09/Node.jsTest/issues"
+  },
+  "homepage": "https://github.com/ikke09/Node.jsTest#readme"
+}
